@@ -1,0 +1,14 @@
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(to bottom, #dc5fa6, #cb6ab9, #b775c7, #a17fd1, #8a88d6, #7493de, #5d9de2, #45a6e3, #1fb5e6, #00c2e3, #21cfdb, #4bdad1);
+  /* background-image: linear-gradient(to bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1); */
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
